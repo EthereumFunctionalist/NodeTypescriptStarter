@@ -12,7 +12,13 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "ethers": "^6.13.4"
+    "@mhoc/axios-digest-auth": "^0.8.0",
+    "@openzeppelin/contracts": "^5.1.0",
+    "@types/express": "^5.0.0",
+    "crypt": "^0.0.2",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.4",
+    "express": "^4.21.2"
   },
   "devDependencies": {
     "ts-node": "^10.9.2"
